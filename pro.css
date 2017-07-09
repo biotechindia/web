@@ -1,0 +1,26 @@
+.navbar{
+
+	border-radius: 0px !important;
+}
+
+.navbar{
+
+	margin-bottom: 0 !important;
+	background-color: #ffcc00 !important;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none !important;
+	
+}
+
+.nav.navbar-nav.navbar-left li a {
+    
+    color: #ffffff !important;
+}
+
+.customDiv{
+
+	background-color: #f0f0f5;
+	font-size: 20px;
+	padding: 20px;
+}

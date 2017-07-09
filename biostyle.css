@@ -1,0 +1,165 @@
+.navbar{
+
+	border-radius: 0px !important;
+}
+
+.navbar{
+
+	margin-bottom: 0 !important;
+	background-color: rgb(204,102,255) !important;
+	background-color: #ffcc00 !important;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none !important;
+	
+}
+
+.nav.navbar-nav.navbar-left li a {
+    
+    color: #ffffff !important;
+}
+
+a:hover{
+
+    text-decoration: none;    
+}
+
+.customDiv1{
+
+	background-color: #ffffff !important;
+	min-height: 700px !important;
+    margin-top: 50px;
+}
+
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    float: left;
+    margin: 30px;
+    margin-top: auto;
+    border-radius: 50px 50px 0px 0px !important;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    transition: 0.3s;
+}
+
+.container{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    margin: 30px;
+    margin-right: auto;
+    margin-top: auto;
+    float: left;
+}
+
+.card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+}
+
+.container1{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    float: left;
+    margin: 30px;
+    margin-top: auto;
+    border-radius: 50px 50px 0px 0px !important;
+}
+
+.card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    transition: 0.3s;
+}
+
+.container2{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}
+
+
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    margin: 30px;
+    margin-right: auto;
+    margin-top: auto;
+    float: left;
+}
+
+.card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    transition: 0.3s;
+}
+
+.container3{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card4 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    float: left;
+    margin: 30px;
+    margin-top: auto;
+    border-radius: 50px 50px 0px 0px !important;
+}
+
+.card4:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    transition: 0.3s;
+}
+
+.container4{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}

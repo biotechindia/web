@@ -1,0 +1,37 @@
+.navbar{
+
+	border-radius: 0px !important;
+}
+
+.navbar{
+
+	margin-bottom: 0 !important;
+	background-color: #ffcc00 !important;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none !important;
+	
+}
+
+.nav.navbar-nav.navbar-left li a {
+    
+    color: #ffffff !important;
+}
+
+.customDiv{
+
+	background-color: #f5f5f5;
+	font-size: 20px;
+}
+
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 200%;
+    font-family: algerian, courier;
+    line-height: 80%;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
