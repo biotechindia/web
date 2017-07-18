@@ -9,7 +9,7 @@
 .navbar{
 
 	margin-bottom: 0 !important;
-	background-color: #ffcc00 !important;	
+	background-color: #6666ff !important;	
 	padding-top: 7px !important;
 	padding-bottom: 10px !important;
 	border: none !important;
@@ -23,9 +23,10 @@
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 
-    background-color: #ff0000;
+    background-color: #0000ff;
     margin-top: -5px;
     margin-bottom: -5px;
+    text-decoration: unset;
 }
 
 
@@ -94,17 +95,17 @@ a:hover{
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     float: left;
     margin: 30px;
     margin-top: auto;
-    border-radius: 0px 0px 0px 0px !important;
+    border-radius: 0px 0px 0px 0px!important;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }
@@ -119,7 +120,7 @@ img{
 }
 
 .card2 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     margin: 30px;
@@ -129,7 +130,7 @@ img{
 }
 
 .card2:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }
@@ -145,7 +146,7 @@ img{
 
 
 .card3 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     float: left;
@@ -155,7 +156,7 @@ img{
 }
 
 .card3:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }
@@ -171,7 +172,7 @@ img{
 
 
 .card4 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     margin: 30px;
@@ -181,7 +182,7 @@ img{
 }
 
 .card4:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }
@@ -196,7 +197,7 @@ img{
 }
 
 .card5 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     float: left;
@@ -206,7 +207,7 @@ img{
 }
 
 .card5:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }
@@ -221,7 +222,7 @@ img{
 }
 
 .card6 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,51,204,0.2);
     transition: 0.3s;
     width: 85%;
     float: left;
@@ -231,7 +232,7 @@ img{
 }
 
 .card6:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,51,204,0.2);
     width: 90%;
     transition: 0.3s;
 }

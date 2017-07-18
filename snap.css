@@ -1,0 +1,45 @@
+.navbar{
+
+	border-radius: 0px !important;
+}
+
+.navbar{
+
+	margin-bottom: 0 !important;
+	background-color: #6666ff !important;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none !important;
+	
+}
+
+.nav.navbar-nav.navbar-left li a {
+    
+    color: #ffffff !important;
+}
+
+
+.customDiv1{
+
+	background-color: #f0f5f5 !important;
+	min-height: 900px !important;
+	padding: 20px !important;
+	font-size: 20px !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 15px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

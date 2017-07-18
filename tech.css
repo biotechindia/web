@@ -6,7 +6,7 @@
 .navbar{
 
 	margin-bottom: 0 !important;
-	background-color: #ffcc00 !important;	
+	background-color: #6666ff !important;	
 	padding-top: 5px;
 	padding-bottom: 5px;
 	border: none !important;
@@ -25,7 +25,8 @@ a:hover{
 .customDiv1{
 
 	background-color: #ffffff;
-	min-height: 900px !important;
+	min-height: 300px !important;
+	min-width: 100px;
 }
 
 
@@ -178,6 +179,32 @@ img{
 }
 
 .container5{
+    padding: 2px 16px;
+    padding-left: 20px !important;
+}
+
+img{
+
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card6 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    float: left;
+    margin: 30px;
+    margin-top: auto;
+    border-radius: 50px 50px 0px 0px !important;
+}
+
+.card6:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    transition: 0.3s;
+}
+
+.container6{
     padding: 2px 16px;
     padding-left: 20px !important;
 }
