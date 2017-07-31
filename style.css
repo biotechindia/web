@@ -1,15 +1,13 @@
-@media screen and (min-width: 380px X 761px) {
-
 .navbar{
 
 	border-radius: 0px !important;
 }
-}
+
 
 .navbar{
 
 	margin-bottom: 0 !important;
-	background-color: #6666ff !important;	
+	background-color: #ff0000 !important;	
 	padding-top: 7px !important;
 	padding-bottom: 10px !important;
 	border: none !important;
@@ -23,12 +21,32 @@
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 
-    background-color: #0000ff;
+    background-color: #000000;
     margin-top: -5px;
     margin-bottom: -5px;
     text-decoration: unset;
 }
 
+.parallax {
+    /* The image used */
+    background-image: url("wire.png");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+  position: absolute;
+  z-index: 1000;
+  top: 200px;
+  left: 200px;
+}
 
 a:hover{
 
@@ -40,7 +58,7 @@ a:hover{
 
 	min-height: 400px;
 	min-width: 100px;
-	background-color: #ffffff;
+	background-color: #f0f5f5;
 	padding: 10px;
 }
 
@@ -49,7 +67,7 @@ a:hover{
 
 	min-height: 400px;
 	min-width: 100px;
-	background-color: #ffffff;
+	background-color: #f0f5f5;
 	padding: 10px;
 }
 }
@@ -58,7 +76,7 @@ a:hover{
 
 	min-height: 400px;
 	min-width: 100px;
-	background-color: #ffffff;
+	background-color: #f0f5f5;
 	padding: 10px;
 }
 
@@ -66,14 +84,19 @@ a:hover{
 
 	min-height: 450px;
 	min-width: 100px;
-	background-color: #ffffff; 
+	background-color: #f0f5f5; 
 	padding: 10px;
 }
 
 .customDiv3{
 
-	background-color: #ffffff;
+	background-color: #f0f5f5;
 	padding: 20px; 
+}
+
+.customDiv5{
+
+    padding: 10px;
 }
 
 .fa {

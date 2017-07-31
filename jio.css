@@ -1,0 +1,30 @@
+.navbar{
+
+	border-radius: 0px !important;
+}
+
+
+.navbar{
+
+	margin-bottom: 0 !important;
+	background-color: #ff0000 !important;	
+	padding-top: 7px !important;
+	padding-bottom: 10px !important;
+	border: none !important;
+	
+}
+
+.nav.navbar-nav.navbar-right li a {
+    
+    color: #ffffff !important;
+}
+
+
+
+.customDiv{
+
+	padding: 20px;
+	min-height: 500px;
+	background-color: #f0f5f5;
+	font-size: 20px;
+}
